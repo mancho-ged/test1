@@ -1,0 +1,24 @@
+@media print {
+    #myCarousel{
+        display:none;
+    }
+
+}
+
+@media screen and (min-width:768px){
+    /* body{
+        display:none;
+    } */
+}
+@media screen and (min-width:992px){
+    body{
+        display:block;
+        background:green;
+    }
+}
+@media screen and (min-width:1200px){
+    body{
+        display:block;
+        background:green;
+    }
+}
